@@ -1,0 +1,12 @@
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/bin/Debug/Szyfrator 2.exe
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/bin/Debug/Szyfrator 2.pdb
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/actool/_PartialAppManifest.items
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/Szyfrator2.csprojAssemblyReference.cache
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/Szyfrator 2.exe
+/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/Szyfrator 2.pdb

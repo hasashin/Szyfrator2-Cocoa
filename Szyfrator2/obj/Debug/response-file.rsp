@@ -1,0 +1,17 @@
+/verbose
+ /debug
+/output:/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/bin/Debug/
+"/name:Szyfrator 2"
+ /profile:Xamarin.Mac,Version=v2.0,Profile=Mobile
+ /arch:x86_64
+ --http-message-handler=HttpClientHandler
+ /minos=10.13
+ /nolink
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll
+"/root-assembly:/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/bin/Debug/Szyfrator 2.exe"
+/sdkroot:/Applications/Xcode.app/Contents/Developer
+--cache:/Users/dominikhazak/Documents/projektyDev/Studia/S5/POD/Szyfrator2/Szyfrator2/obj/Debug/mmp-cache

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7596FA60-AD4E-4416-AA3F-E7C1ACC17A5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>7596FA60-AD4E-4416-AA3F-E7C1ACC17A5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Szyfrator2-dkktyvltujriathjbtkmbrbmhdul</string>
+			<key>timeStartedRecording</key>
+			<real>592601434.26584899</real>
+			<key>timeStoppedRecording</key>
+			<real>592601435.12697399</real>
+			<key>title</key>
+			<string>Build target Szyfrator2</string>
+			<key>uniqueIdentifier</key>
+			<string>7596FA60-AD4E-4416-AA3F-E7C1ACC17A5D</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
